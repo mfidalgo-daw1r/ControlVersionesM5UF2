@@ -64,36 +64,7 @@ public class prova {
             System.out.println("hola");
         }
 
-    /* System.out.println("Quina paraula vols buscar? ");
-        String paraula = lector.nextLine();
-        int i = 0, j = 0;
-        String[] exists = new String[5];
-        while (i < nomproductes.length - 1) {
-                if (nomproductes[i].contains(paraula)) {
-                exists[0] = nomproductes[i];
-                j++;
-            }
-            i++;
-        }
-        if (i == nomproductes.length - 1 ) {
-            System.out.println("No hi ha cap producte amb la descripció introduida");
-            
-        } else {
-            for (int k = 0; k < nomproductes.length; k++) {
-                System.out.println(exists[k]);
-            }
-        }
-//case 7: //Filtrar noms de productes (buscar per Strings)
-                   /* lector.nextLine();
-                    System.out.println("Quina paraula vols buscar? ");
-                    String paraula = lector.nextLine();
-                    System.out.println("Els productes que contenen " + paraula + " son: ");
-                    for (int i = 0; i < quants; i++) {
-                        if (productes[i].nom.contains(paraula)) {
-                            System.out.println("  -" + productes[i].nom);
-                        }
-                    }
-     */
+
 }
 
 }
