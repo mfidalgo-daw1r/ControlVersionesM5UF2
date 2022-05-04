@@ -21,6 +21,7 @@ public class GestioFitxer {
   public int llegeix(Alumne alumnes[]) {
 
     int quants = 0;
+    int hola = 7;
     ObjectInputStream entrada = null;
     try {
          entrada = new ObjectInputStream(new FileInputStream("Alumnes.dat"));
