@@ -10,5 +10,6 @@ import java.io.Serializable;
 public class Alumne implements Serializable{
     String nom;
     String cognoms;
-    double notes[]= new double[3];      
+    double notes[]= new double[3];    
+    String pamplona;
 }
