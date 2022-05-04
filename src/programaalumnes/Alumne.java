@@ -13,4 +13,6 @@ public class Alumne implements Serializable{
     double notes[]= new double[3];     
     int hi=45;
     String NataPayaso;
+    String Pamplona="Fernando Alonso";
+    
 }
